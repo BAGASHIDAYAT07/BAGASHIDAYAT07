@@ -1,4 +1,4 @@
-<p align="left">🌐 Front-End Web Developer | 🎨 UI/UX Designer | 📸 Content Creator (Video & Photography)<br>🎮 Game Design Enthusiast | Mobile Legends | Minecraft | Free Fire | Roblox | Guardian Tales<br><br>Passionate front-end developer with strong skills in responsive web design and UI/UX. Experienced in creating engaging digital content including videos, photos, and user interfaces. Special interest in designing gaming-related visuals and experiences for popular mobile and online games.</p>
+<h4 align="center">🌐 Front-End Web Developer | 🎨 UI/UX Designer | 📸 Content Creator (Video & Photography)<br>🎮 Game Design Enthusiast | Mobile Legends | Minecraft | Free Fire | Roblox | Guardian Tales<br><br>Passionate front-end developer with strong skills in responsive web design and UI/UX. Experienced in creating engaging digital content including videos, photos, and user interfaces. Special interest in designing gaming-related visuals and experiences for popular mobile and online games.</h4>
 
 ###
 
@@ -38,21 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BAGASHIDAYAT07/BAGASHIDAYAT07/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BAGASHIDAYAT07/BAGASHIDAYAT07/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BAGASHIDAYAT07/BAGASHIDAYAT07/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BAGASHIDAYAT07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BAGASHIDAYAT07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
