@@ -1,4 +1,4 @@
-<p align="left">🌐 Front-End Web Developer | 🎨 UI/UX Designer | 📸 Content Creator (Video & Photography)<br>🎮 Game Design Enthusiast | Mobile Legends | Minecraft | Free Fire | Roblox | Guardian Tales<br><br>Passionate front-end developer with strong skills in responsive web design and UI/UX. Experienced in creating engaging digital content including videos, photos, and user interfaces. Special interest in designing gaming-related visuals and experiences for popular mobile and online games.<br>_________________________________________________________________________________________</p>
+<p align="left">🌐 Front-End Web Developer | 🎨 UI/UX Designer | 📸 Content Creator (Video & Photography)<br>🎮 Game Design Enthusiast | Mobile Legends | Minecraft | Free Fire | Roblox | Guardian Tales<br><br>Passionate front-end developer with strong skills in responsive web design and UI/UX. Experienced in creating engaging digital content including videos, photos, and user interfaces. Special interest in designing gaming-related visuals and experiences for popular mobile and online games.</p>
 
 ###
 
@@ -42,7 +42,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BAGASHIDAYAT07/BAGASHIDAYAT07/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BAGASHIDAYAT07/BAGASHIDAYAT07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BAGASHIDAYAT07/BAGASHIDAYAT07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BAGASHIDAYAT07/BAGASHIDAYAT07/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
