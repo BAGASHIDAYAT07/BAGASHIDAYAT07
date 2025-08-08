@@ -48,6 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BAGASHIDAYAT07/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BAGASHIDAYAT07/BAGASHIDAYAT07/output/snake.svg" alt="Snake animation" />
 
 ###
